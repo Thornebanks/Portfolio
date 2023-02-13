@@ -1,5 +1,5 @@
 import React from "react";
-import sneaker from "../assets/Portfolio/Sneaker.png";
+import sneaker from "../assets/Portfolio/shoe.png";
 import crypto from "../assets/Portfolio/crypto.png";
 import instock from "../assets/Portfolio/instock.png";
 import brainflix from "../assets/Portfolio/brainflix.png";
